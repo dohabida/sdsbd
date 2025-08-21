@@ -1,5 +1,10 @@
+# requirements.txt
 streamlit
-pandas 
+pandas
+numpy
+plotly
+
 matplotlib 
 seaborn 
+
 koreanize-matplotlib
